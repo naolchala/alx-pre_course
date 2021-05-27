@@ -32,3 +32,13 @@ pushing into github
 ```zsh
 git push origin <branch>
 ```
+
+creating branch
+```zsh
+git branch <branch_name>
+```
+
+changing working branch
+```zsh
+git checkout <branch_name>
+```
